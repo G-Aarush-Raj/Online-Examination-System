@@ -108,5 +108,5 @@ Online Examination System using Java Development (Swings and AWT)
 
     public static void main(String[] args) {
         new OnlineExaminationSystem();
-    }
-}
+    } }
+
